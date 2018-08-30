@@ -1,0 +1,4 @@
+import math as m
+from math import *
+
+ipython notebook --pylab=inline
